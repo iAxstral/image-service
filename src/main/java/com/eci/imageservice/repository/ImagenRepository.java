@@ -1,5 +1,6 @@
 package com.eci.imageservice.repository;
-import com.example.imageservice.model.document.ImagenDocument;
+
+import com.eci.imageservice.model.document.ImagenDocument;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.List;
